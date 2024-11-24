@@ -1,0 +1,4 @@
+﻿  PasDef.cpp
+C:\Users\Shira\Desktop\PasDef\PasDef\PasDef.cpp(142,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Shira\Desktop\PasDef\PasDef\PasDef.cpp(218,1): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  PasDef.vcxproj -> C:\Users\Shira\Desktop\PasDef\x64\Debug\PasDef.exe
